@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Text;
 
-namespace Binding_ValidateErroe_WPF.ViewModel
+namespace Binding_ValidateError_WPF.ViewModel
 {
     public class ProductViewModel:BaseViewModel, IDataErrorInfo
     {
