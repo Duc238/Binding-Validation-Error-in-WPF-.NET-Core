@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Windows.Input;
 
-namespace Binding_ValidateErroe_WPF.ViewModel
+namespace Binding_ValidateError_WPF.ViewModel
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
