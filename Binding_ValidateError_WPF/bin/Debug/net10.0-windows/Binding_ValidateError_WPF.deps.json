@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Binding_ValidateError_WPF/1.0.0": {
+        "runtime": {
+          "Binding_ValidateError_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Binding_ValidateError_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
